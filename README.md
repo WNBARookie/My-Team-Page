@@ -6,10 +6,10 @@
 
 <div align="center">
   <h3>
-    <!-- <a href="https://{your-url-to-the-solution}">
+    <a href="https://team-page-devchallenges.netlify.app/">
       Solution
     </a>
-    <span> | </span> -->
+    <span> | </span>
     <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
